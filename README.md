@@ -38,5 +38,3 @@ Python is built around the CLI. So it is difficult to change something entered h
 <h2>8. lease protect the creator's rights. Finally, my YouTube channel opens as a web page</h2>
 <img src="images/6.png" alt="image not found" width="100%">
 
-
-<h3>Sujested Answers For A/L ICT 2022 2023 MCQ paper</h3>
