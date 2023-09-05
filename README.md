@@ -32,7 +32,7 @@ Python is built around the CLI. So it is difficult to change something entered h
 <h2>6. Finally it will show relief and press enter button to quit</h2>
 <img src="images/5.png" alt="image not found" width="100%">
 
-<h2>7. ඔබේ ලකුණු කට්ටලය ඔබේ නම සමඟ .txt ගොනුවක් ලෙස සොයනු ඇත</h2>
+<h2>7. Your score set will be searched as a .txt file with your name</h2>
 <img src="images/1.png" alt="image not found" width="100%">
 
 <h2>8. lease protect the creator's rights. Finally, my YouTube channel opens as a web page</h2>
